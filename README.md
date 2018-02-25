@@ -1,7 +1,12 @@
+
 # New
 
 code.google.com/p/reactos-mirror
 https://github.com/zqzjz0911?tab=following
+
+GetGUIThreadInfo
+GetWindowThreadProcessId
+
 
 
 Windows 中的三种对象
