@@ -24,6 +24,9 @@ http://bobao.360.cn/learning/detail/516.html
 
 http://blog.csdn.net/u013761036/article/details/68939796
 
+# VT
+http://bbs.pediy.com/showthread.php?t=212786
+
 # note
 http://blog.csdn.net/u013761036/article/details/61467912
 http://blog.csdn.net/kingswb/article/details/51468675
