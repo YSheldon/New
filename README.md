@@ -12,8 +12,6 @@ GetWindowThreadProcessId
 Windows 中的三种对象
 http://blog.csdn.net/qq_18218335/article/details/78143724
 
-# NtCreateWindowEx
-
 
 !process 0 0
 .process /p EProcess
@@ -23,6 +21,9 @@ http://blog.csdn.net/qq_18218335/article/details/78143724
 https://www.anquanke.com/post/id/85485
 https://weibo.com/p/1001603842055548865374
 https://github.com/hfiref0x/CVE-2015-1701/blob/master/Source/Taihou/main.c
+
+http://blog.csdn.net/u013761036/article/details/68939796
+
 # note
 http://blog.csdn.net/u013761036/article/details/61467912
 http://blog.csdn.net/kingswb/article/details/51468675
