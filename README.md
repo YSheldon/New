@@ -23,7 +23,7 @@ https://github.com/hfiref0x/CVE-2015-1701/blob/master/Source/Taihou/main.c
 http://bobao.360.cn/learning/detail/516.html
 
 http://blog.csdn.net/u013761036/article/details/68939796
-
+https://github.com/metoo10987/WinNT4/blob/f5c14e6b42c8f45c20fe88d14c61f9d6e0386b8e/private/ntos/w32/ntuser/client/dlgbegin.c
 # VT
 http://bbs.pediy.com/showthread.php?t=212786
 
