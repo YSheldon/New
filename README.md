@@ -16,6 +16,9 @@ http://blog.csdn.net/qq_18218335/article/details/78143724
 .process /p EProcess
 .reload /f /user
 .process /i /p EProcess
+ !locks -v fffffa8002d92af0
+
+
 # NtUserCreateWindowEx
 https://www.anquanke.com/post/id/85485
 https://weibo.com/p/1001603842055548865374
