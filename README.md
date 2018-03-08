@@ -6,6 +6,8 @@ https://github.com/zqzjz0911?tab=following
 GetGUIThreadInfo
 GetWindowThreadProcessId
 
+# DNS
+http://huaidan.org/archives/1052.html
 
 
 Windows 中的三种对象
